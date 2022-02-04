@@ -2,6 +2,7 @@
   "RSpec": {
     "coverage": {
       "/csce431/book-assignment-LexieKwon/spec/feature/integration_spec.rb": {
+
         "lines": [
           null,
           1,
@@ -24,6 +25,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/spec/rails_helper.rb": {
+
         "lines": [
           null,
           1,
@@ -92,6 +94,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/config/environment.rb": {
+
         "lines": [
           null,
           1,
@@ -101,6 +104,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/config/application.rb": {
+
         "lines": [
           1,
           null,
@@ -127,6 +131,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/config/boot.rb": {
+
         "lines": [
           1,
           null,
@@ -135,6 +140,8 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/config/environments/test.rb": {
+
+     
         "lines": [
           1,
           null,
@@ -199,6 +206,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/config/initializers/application_controller_renderer.rb": {
+
         "lines": [
           null,
           null,
@@ -211,6 +219,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/config/initializers/assets.rb": {
+
         "lines": [
           null,
           null,
@@ -229,6 +238,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/config/initializers/backtrace_silencers.rb": {
+
         "lines": [
           null,
           null,
@@ -241,6 +251,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/config/initializers/content_security_policy.rb": {
+
         "lines": [
           null,
           null,
@@ -275,6 +286,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/config/initializers/cookies_serializer.rb": {
+
         "lines": [
           null,
           null,
@@ -284,6 +296,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/config/initializers/filter_parameter_logging.rb": {
+
         "lines": [
           null,
           null,
@@ -294,6 +307,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/config/initializers/inflections.rb": {
+
         "lines": [
           null,
           null,
@@ -314,6 +328,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/config/initializers/mime_types.rb": {
+
         "lines": [
           null,
           null,
@@ -322,6 +337,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/config/initializers/permissions_policy.rb": {
+
         "lines": [
           null,
           null,
@@ -337,6 +353,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/config/initializers/wrap_parameters.rb": {
+
         "lines": [
           null,
           null,
@@ -364,23 +381,27 @@
           null,
           null,
           1,
+
           null,
           null
         ]
       },
       "/csce431/book-assignment-LexieKwon/app/helpers/application_helper.rb": {
+
         "lines": [
           1,
           null
         ]
       },
       "/csce431/book-assignment-LexieKwon/app/helpers/books_helper.rb": {
+
         "lines": [
           1,
           null
         ]
       },
       "/csce431/book-assignment-LexieKwon/spec/unit/unit_spec.rb": {
+
         "lines": [
           null,
           1,
@@ -443,6 +464,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/app/models/application_record.rb": {
+
         "lines": [
           1,
           1,
@@ -450,6 +472,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/app/controllers/books_controller.rb": {
+
         "lines": [
           1,
           1,
@@ -528,6 +551,7 @@
         ]
       },
       "/csce431/book-assignment-LexieKwon/app/controllers/application_controller.rb": {
+
         "lines": [
           1,
           null
@@ -535,5 +559,6 @@
       }
     },
     "timestamp": 1643934194
+
   }
 }
